@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "entries": [
+    {
+      "Count": 3,
+      "id": "minecraft:debug_stick"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:player_head",
+      "tag": {
+        "SkullOwner": "Notch"
+      }
+    }
+  ],
+  "tags": [],
+  "id": "itemGroup.buildingBlocks"
+}
