@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "data-tabs",
+  "version": "${version}",
+  "name": "Data Tabs",
+  "description": "",
+  "authors": [
+    "AlphaMode"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.alphamode.datatabs.DataTabs"
+    ]
+  },
+  "mixins": [
+    "tag-item-groups.mixins.json"
+  ],
+  "accessWidener": "tagitemgroup.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.14.10"
+  },
+  "custom": {
+    "loom:injected_interfaces": {
+      "net/minecraft/class_1761": ["me/alphamode/datatabs/CreativeModeTabExtension"]
+    }
+  }
+}

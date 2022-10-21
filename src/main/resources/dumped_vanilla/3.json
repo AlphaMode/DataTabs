@@ -1,0 +1,351 @@
+{
+  "entries": [
+    {
+      "Count": 1,
+      "id": "minecraft:redstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone_torch"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:repeater"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:comparator"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:piston"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sticky_piston"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:slime_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:honey_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:observer"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:hopper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dispenser"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dropper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lectern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:target"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lever"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lightning_rod"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:daylight_detector"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sculk_sensor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tripwire_hook"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:trapped_chest"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tnt"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone_lamp"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:note_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:powered_rail"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:detector_rail"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rail"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:activator_rail"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chest_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:furnace_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tnt_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:hopper_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_weighted_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_fence_gate"
+    }
+  ],
+  "id": "itemGroup.redstone",
+  "replace": false,
+  "tags": []
+}

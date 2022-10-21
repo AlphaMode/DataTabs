@@ -1,0 +1,550 @@
+{
+  "entries": [
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:trident",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shield",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chainmail_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chainmail_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chainmail_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chainmail_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:turtle_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_horse_armor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_horse_armor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_horse_armor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_horse_armor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:totem_of_undying"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:snowball"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bow",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crossbow",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:arrow"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spectral_arrow"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:luck"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_slow_falling"
+      }
+    }
+  ],
+  "id": "itemGroup.combat",
+  "replace": false,
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.alphamode.datatabs.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "common.CreativeModeTabMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

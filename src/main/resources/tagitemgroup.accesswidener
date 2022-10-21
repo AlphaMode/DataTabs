@@ -1,0 +1,7 @@
+accessWidener v2 named
+transitive-accessible class net/minecraft/world/item/CreativeModeTab$Output
+transitive-accessible class net/minecraft/world/item/CreativeModeTab$ItemDisplayBuilder
+transitive-accessible class net/minecraft/world/item/CreativeModeTab$TabVisibility
+
+transitive-accessible field net/minecraft/world/item/CreativeModeTab$ItemDisplayBuilder tab Lnet/minecraft/world/item/CreativeModeTab;
+transitive-accessible field net/minecraft/world/item/CreativeModeTab$ItemDisplayBuilder featureFlagSet Lnet/minecraft/world/flag/FeatureFlagSet;

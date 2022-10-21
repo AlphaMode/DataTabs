@@ -1,0 +1,6394 @@
+{
+  "entries": [
+    {
+      "Count": 1,
+      "id": "minecraft:oak_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_oak_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_oak_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_spruce_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_spruce_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_birch_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_birch_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_jungle_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_jungle_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_acacia_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_acacia_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_dark_oak_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_dark_oak_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_mangrove_log"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_mangrove_wood"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_stem"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_hyphae"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_crimson_stem"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_crimson_hyphae"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_stem"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_hyphae"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_warped_stem"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stripped_warped_hyphae"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_planks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_fence_gate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobblestone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobblestone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobblestone_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mossy_cobblestone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mossy_cobblestone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mossy_cobblestone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mossy_cobblestone_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_stone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_stone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chiseled_stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mossy_stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mossy_stone_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mossy_stone_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mossy_stone_brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:granite"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_granite"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:granite_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_granite_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:granite_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_granite_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:granite_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diorite"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_diorite"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diorite_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_diorite_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diorite_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_diorite_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diorite_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:andesite"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_andesite"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:andesite_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_andesite_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:andesite_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_andesite_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:andesite_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_deepslate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cracked_deepslate_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_tiles"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cracked_deepslate_tiles"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chiseled_deepslate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:reinforced_deepslate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobbled_deepslate_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_deepslate_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_tile_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobbled_deepslate_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_deepslate_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_tile_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobbled_deepslate_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_deepslate_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_tile_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:packed_mud"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mud_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mud_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mud_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mud_brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sandstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_sandstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chiseled_sandstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cut_sandstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sandstone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_sandstone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sandstone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_sandstone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cut_sandstone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sandstone_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_sandstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_red_sandstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chiseled_red_sandstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cut_red_sandstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_sandstone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_red_sandstone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_sandstone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_red_sandstone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cut_red_sandstone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_sandstone_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sea_lantern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_prismarine"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_prismarine_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_prismarine_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:quartz_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_quartz"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chiseled_quartz_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:quartz_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:quartz_pillar"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:quartz_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_quartz_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_quartz_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:quartz_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:basalt"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smooth_basalt"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_basalt"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherrack"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cracked_nether_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chiseled_nether_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_brick_fence"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_nether_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_nether_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_nether_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_nether_brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blackstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cracked_polished_blackstone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gilded_blackstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blackstone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blackstone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blackstone_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_stone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_stone_brick_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_stone_brick_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_stone_brick_wall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purpur_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purpur_pillar"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purpur_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purpur_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_bars"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_door"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_trapdoor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gold_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:emerald_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lapis_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:copper_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cut_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cut_copper_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cut_copper_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:exposed_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:exposed_cut_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:exposed_cut_copper_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:weathered_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:weathered_cut_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:weathered_cut_copper_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:weathered_cut_copper_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oxidized_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oxidized_cut_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oxidized_cut_copper_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oxidized_cut_copper_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_copper_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_cut_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_cut_copper_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_cut_copper_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_weathered_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_weathered_cut_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_weathered_cut_copper_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_weathered_cut_copper_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_oxidized_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_oxidized_cut_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_oxidized_cut_copper_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_oxidized_cut_copper_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_exposed_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_exposed_cut_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_exposed_cut_copper_stairs"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:waxed_exposed_cut_copper_slab"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_glazed_terracotta"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_concrete"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_concrete_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tinted_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_stained_glass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_stained_glass_pane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_wool"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:torch"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:soul_torch"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lantern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:soul_lantern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chain"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_rod"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crafting_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stonecutter"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cartography_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fletching_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smithing_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:grindstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:loom"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:furnace"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smoker"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blast_furnace"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:campfire"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:soul_campfire"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:anvil"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chipped_anvil"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:damaged_anvil"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:composter"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jukebox"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanting_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brewing_stand"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cauldron"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bell"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:beacon"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:conduit"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lodestone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ladder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:scaffolding"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:beehive"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flower_pot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:armor_stand"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:item_frame"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glow_item_frame"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:painting"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bookshelf"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_crystal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chest"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:barrel"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ender_chest"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:respawn_anchor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:skeleton_skull"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:player_head"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:zombie_head"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:creeper_head"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dragon_head"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone_torch"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:repeater"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:comparator"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:piston"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sticky_piston"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:slime_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:honey_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:observer"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:hopper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dispenser"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dropper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lectern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:target"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lever"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lightning_rod"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:daylight_detector"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sculk_sensor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tripwire_hook"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:trapped_chest"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tnt"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone_lamp"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:note_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:powered_rail"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:detector_rail"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rail"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:activator_rail"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chest_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:furnace_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tnt_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:hopper_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_button"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polished_blackstone_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_weighted_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_pressure_plate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:water_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pufferfish_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:salmon_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cod_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tropical_fish_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:axolotl_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tadpole_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lava_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:powder_snow_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:milk_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fishing_rod",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flint_and_steel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fire_charge"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shears",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:name_tag"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lead"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:compass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:recovery_compass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:clock"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spyglass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:map"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:writable_book"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ender_eye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:elytra",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:firework_rocket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:saddle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:carrot_on_a_stick",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_fungus_on_a_stick",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:ponder_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:sing_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:seek_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:feel_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:admire_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:call_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:yearn_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:dream_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_13"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_cat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_blocks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_chirp"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_far"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_mall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_mellohi"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_stal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_strad"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_ward"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_11"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_wait"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_otherside"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_5"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_pigstep"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:experience_bottle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_sword",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:trident",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shield",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chainmail_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chainmail_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chainmail_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chainmail_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_chestplate",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_leggings",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_boots",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:turtle_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather_horse_armor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_horse_armor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_horse_armor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_horse_armor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:totem_of_undying"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:snowball"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bow",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crossbow",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:arrow"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spectral_arrow"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:strong_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:luck"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tipped_arrow",
+      "tag": {
+        "Potion": "minecraft:long_slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:apple"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mushroom_stew"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bread"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:porkchop"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cooked_porkchop"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_apple"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cod"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:salmon"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tropical_fish"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pufferfish"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cooked_cod"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cooked_salmon"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cake"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cookie"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:melon_slice"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dried_kelp"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:beef"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cooked_beef"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chicken"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cooked_chicken"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:carrot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_carrot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potato"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:baked_potato"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pumpkin_pie"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rabbit"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cooked_rabbit"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rabbit_stew"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mutton"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cooked_mutton"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:beetroot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:beetroot_soup"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sweet_berries"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glow_berries"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chorus_fruit"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rotten_flesh"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:poisonous_potato"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spider_eye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:honey_bottle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:strong_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:luck"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:potion",
+      "tag": {
+        "Potion": "minecraft:long_slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:strong_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:luck"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:splash_potion",
+      "tag": {
+        "Potion": "minecraft:long_slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_night_vision"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_invisibility"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_leaping"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_fire_resistance"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_swiftness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_slowness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_turtle_master"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_water_breathing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_healing"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_harming"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_poison"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_regeneration"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:strong_strength"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_weakness"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:luck"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lingering_potion",
+      "tag": {
+        "Potion": "minecraft:long_slow_falling"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:coal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:charcoal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_iron"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_gold"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:amethyst_shard"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:quartz"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lapis_lazuli"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:emerald"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_nugget"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gold_nugget"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_scrap"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:copper_ingot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gold_ingot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_ingot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stick"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flint"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wheat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bone_meal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:string"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:feather"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rabbit_hide"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:honeycomb"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ink_sac"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glow_ink_sac"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:scute"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:slime_ball"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:clay_ball"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_shard"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_crystals"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nautilus_shell"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:heart_of_the_sea"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blaze_rod"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_star"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shulker_shell"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:popped_chorus_fruit"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:echo_shard"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:disc_fragment_5"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bowl"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brick"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_brick"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:paper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:book"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:firework_star"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glass_bottle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_wart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glowstone_dust"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gunpowder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dragon_breath"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fermented_spider_eye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blaze_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sugar"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rabbit_foot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glistering_melon_slice"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magma_cream"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ghast_tear"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:phantom_membrane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flower_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:creeper_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:skull_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mojang_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:globe_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:piglin_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:protection",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:protection",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:protection",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:protection",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fire_protection",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fire_protection",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fire_protection",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fire_protection",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:feather_falling",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:feather_falling",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:feather_falling",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:feather_falling",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:blast_protection",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:blast_protection",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:blast_protection",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:blast_protection",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:projectile_protection",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:projectile_protection",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:projectile_protection",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:projectile_protection",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:respiration",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:respiration",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:respiration",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:aqua_affinity",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:thorns",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:thorns",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:thorns",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:depth_strider",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:depth_strider",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:depth_strider",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:frost_walker",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:frost_walker",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:binding_curse",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:soul_speed",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:soul_speed",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:soul_speed",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:swift_sneak",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:swift_sneak",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:swift_sneak",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sharpness",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sharpness",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sharpness",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sharpness",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sharpness",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:smite",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:smite",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:smite",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:smite",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:smite",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:bane_of_arthropods",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:bane_of_arthropods",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:bane_of_arthropods",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:bane_of_arthropods",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:bane_of_arthropods",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:knockback",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:knockback",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fire_aspect",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fire_aspect",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:looting",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:looting",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:looting",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sweeping",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sweeping",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sweeping",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:efficiency",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:efficiency",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:efficiency",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:efficiency",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:efficiency",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:silk_touch",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:unbreaking",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:unbreaking",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:unbreaking",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fortune",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fortune",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fortune",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:power",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:power",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:power",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:power",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:power",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:punch",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:punch",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:flame",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:infinity",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:luck_of_the_sea",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:luck_of_the_sea",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:luck_of_the_sea",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:lure",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:lure",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:lure",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:loyalty",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:loyalty",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:loyalty",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:impaling",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:impaling",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:impaling",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:impaling",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:impaling",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:riptide",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:riptide",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:riptide",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:channeling",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:multishot",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:quick_charge",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:quick_charge",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:quick_charge",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:piercing",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:piercing",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:piercing",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:piercing",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:mending",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:vanishing_curse",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:allay_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:axolotl_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bat_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bee_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blaze_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cat_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cave_spider_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chicken_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cod_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cow_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:creeper_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dolphin_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:donkey_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:drowned_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:elder_guardian_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enderman_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:endermite_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:evoker_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fox_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:frog_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ghast_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glow_squid_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:guardian_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:hoglin_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:horse_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:husk_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:llama_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magma_cube_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mooshroom_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mule_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ocelot_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:panda_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:parrot_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:phantom_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pig_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:piglin_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:piglin_brute_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pillager_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:polar_bear_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pufferfish_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rabbit_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ravager_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:salmon_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sheep_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shulker_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:silverfish_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:skeleton_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:skeleton_horse_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:slime_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spider_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:squid_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stray_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:strider_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tadpole_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:trader_llama_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tropical_fish_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:turtle_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:vex_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:villager_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:vindicator_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wandering_trader_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warden_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:witch_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wither_skeleton_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wolf_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:zoglin_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:zombie_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:zombie_horse_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:zombie_villager_spawn_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:zombified_piglin_spawn_egg"
+    }
+  ],
+  "id": "itemGroup.search",
+  "replace": false,
+  "tags": []
+}

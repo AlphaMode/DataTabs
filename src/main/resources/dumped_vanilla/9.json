@@ -1,0 +1,842 @@
+{
+  "entries": [
+    {
+      "Count": 1,
+      "id": "minecraft:coal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:charcoal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_iron"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_copper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_gold"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:amethyst_shard"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:quartz"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lapis_lazuli"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:emerald"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_nugget"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gold_nugget"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_scrap"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:copper_ingot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gold_ingot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_ingot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stick"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flint"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wheat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bone_meal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:string"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:feather"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:leather"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rabbit_hide"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:honeycomb"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ink_sac"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glow_ink_sac"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:scute"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:slime_ball"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:clay_ball"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_shard"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:prismarine_crystals"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nautilus_shell"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:heart_of_the_sea"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blaze_rod"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_star"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ender_eye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shulker_shell"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:popped_chorus_fruit"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:echo_shard"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:disc_fragment_5"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_dye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bowl"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brick"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_brick"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:paper"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:book"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:firework_star"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glass_bottle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_wart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glowstone_dust"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gunpowder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dragon_breath"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fermented_spider_eye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blaze_powder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sugar"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rabbit_foot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glistering_melon_slice"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spider_eye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pufferfish"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magma_cream"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_carrot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ghast_tear"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:turtle_helmet",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:phantom_membrane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flower_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:creeper_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:skull_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mojang_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:globe_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:piglin_banner_pattern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:protection",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fire_protection",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:feather_falling",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:blast_protection",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:projectile_protection",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:respiration",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:aqua_affinity",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:thorns",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:depth_strider",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:frost_walker",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:binding_curse",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:soul_speed",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:swift_sneak",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sharpness",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:smite",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:bane_of_arthropods",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:knockback",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fire_aspect",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:looting",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:sweeping",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:efficiency",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:silk_touch",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:unbreaking",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:fortune",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:power",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:punch",
+            "lvl": 2
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:flame",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:infinity",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:luck_of_the_sea",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:lure",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:loyalty",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:impaling",
+            "lvl": 5
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:riptide",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:channeling",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:multishot",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:quick_charge",
+            "lvl": 3
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:piercing",
+            "lvl": 4
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:mending",
+            "lvl": 1
+          }
+        ]
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanted_book",
+      "tag": {
+        "StoredEnchantments": [
+          {
+            "id": "minecraft:vanishing_curse",
+            "lvl": 1
+          }
+        ]
+      }
+    }
+  ],
+  "id": "itemGroup.crafting",
+  "replace": false,
+  "tags": []
+}

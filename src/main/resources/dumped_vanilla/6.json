@@ -1,0 +1,509 @@
+{
+  "entries": [
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wooden_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stone_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:golden_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_shovel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_pickaxe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_axe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:netherite_hoe",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:water_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pufferfish_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:salmon_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cod_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tropical_fish_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:axolotl_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tadpole_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lava_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:powder_snow_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:milk_bucket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fishing_rod",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flint_and_steel",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fire_charge"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shears",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:name_tag"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lead"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:compass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:recovery_compass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:clock"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spyglass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:map"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:writable_book"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ender_eye"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:elytra",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:firework_rocket"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:saddle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:carrot_on_a_stick",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_fungus_on_a_stick",
+      "tag": {
+        "Damage": 0
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_chest_boat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chest_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:furnace_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tnt_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:hopper_minecart"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:ponder_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:sing_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:seek_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:feel_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:admire_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:call_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:yearn_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:goat_horn",
+      "tag": {
+        "instrument": "minecraft:dream_goat_horn"
+      }
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_13"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_cat"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_blocks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_chirp"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_far"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_mall"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_mellohi"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_stal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_strad"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_ward"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_11"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_wait"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_otherside"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_5"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:music_disc_pigstep"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:experience_bottle"
+    }
+  ],
+  "id": "itemGroup.tools",
+  "replace": false,
+  "tags": []
+}

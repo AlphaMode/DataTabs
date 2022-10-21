@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "Count": 1,
+      "id": "minecraft:potato"
+    }
+  ],
+  "id": "itemGroup.nature",
+  "replace": true,
+  "tags": [
+    "minecraft:wool"
+  ]
+}

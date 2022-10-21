@@ -1,0 +1,507 @@
+{
+  "entries": [
+    {
+      "Count": 1,
+      "id": "minecraft:torch"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:soul_torch"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lantern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:soul_lantern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chain"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_rod"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crafting_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:stonecutter"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cartography_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fletching_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smithing_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:grindstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:loom"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:furnace"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:smoker"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blast_furnace"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:campfire"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:soul_campfire"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:anvil"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chipped_anvil"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:damaged_anvil"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:composter"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jukebox"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:enchanting_table"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brewing_stand"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cauldron"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bell"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:beacon"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:conduit"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lodestone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ladder"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:scaffolding"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:beehive"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flower_pot"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:armor_stand"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:item_frame"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glow_item_frame"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:painting"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bookshelf"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_crystal"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chest"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:barrel"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ender_chest"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_shulker_box"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_bed"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:respawn_anchor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_sign"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_candle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magenta_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_blue_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:yellow_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lime_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gray_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:light_gray_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cyan_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:purple_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:green_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:black_banner"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:skeleton_skull"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:player_head"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:zombie_head"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:creeper_head"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dragon_head"
+    }
+  ],
+  "id": "itemGroup.functional",
+  "replace": false,
+  "tags": []
+}
