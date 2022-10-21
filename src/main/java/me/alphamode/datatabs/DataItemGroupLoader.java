@@ -24,7 +24,7 @@ public enum DataItemGroupLoader implements ResourceManagerReloadListener, Identi
 
     @Override
     public ResourceLocation getFabricId() {
-        return new ResourceLocation("tag-item-groups", "item_group_loader");
+        return new ResourceLocation("data-tabs", "item_group_loader");
     }
 
     @Override

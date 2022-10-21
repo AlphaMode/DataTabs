@@ -1702,6 +1702,810 @@
     },
     {
       "Count": 1,
+      "id": "minecraft:oak_sapling"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_sapling"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_sapling"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_sapling"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_sapling"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_sapling"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_propagule"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oak_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spruce_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:birch_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jungle_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:acacia_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dark_oak_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mangrove_roots"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:muddy_mangrove_roots"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:azalea_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flowering_azalea_leaves"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:melon"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pumpkin"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:carved_pumpkin"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:jack_o_lantern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:hay_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cobweb"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:grass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:azalea"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:flowering_azalea"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_bush"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dandelion"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:poppy"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_orchid"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:allium"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:azure_bluet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_tulip"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:orange_tulip"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:white_tulip"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pink_tulip"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:oxeye_daisy"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cornflower"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lily_of_the_valley"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wither_rose"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:spore_blossom"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_mushroom"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_mushroom"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brown_mushroom_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_mushroom_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mushroom_stem"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_fungus"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_fungus"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_wart_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_wart_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:shroomlight"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_roots"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_roots"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_sprouts"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:weeping_vines"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:twisting_vines"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sugar_cane"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:moss_carpet"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:moss_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:hanging_roots"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:big_dripleaf"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:small_dripleaf"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bamboo"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chorus_plant"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:chorus_flower"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cactus"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:vine"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glow_lichen"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sunflower"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lilac"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rose_bush"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:peony"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tall_grass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:large_fern"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wheat_seeds"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:cocoa_beans"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pumpkin_seeds"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:melon_seeds"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:beetroot_seeds"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lily_pad"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:seagrass"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sea_pickle"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:kelp"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dried_kelp_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_tube_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_brain_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_bubble_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_fire_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_horn_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tube_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brain_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bubble_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fire_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:horn_coral_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tube_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brain_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bubble_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fire_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:horn_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_brain_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_bubble_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_fire_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_horn_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_tube_coral"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tube_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:brain_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bubble_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:fire_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:horn_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_tube_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_brain_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_bubble_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_fire_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dead_horn_coral_fan"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sponge"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:wet_sponge"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sculk"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sculk_vein"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sculk_catalyst"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sculk_shrieker"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sculk_sensor"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:frogspawn"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:turtle_egg"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bee_nest"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:honeycomb_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:slime_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:honey_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ochre_froglight"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:verdant_froglight"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pearlescent_froglight"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:grass_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:podzol"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mycelium"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dirt"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:farmland"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dirt_path"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:coarse_dirt"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:rooted_dirt"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:mud"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:clay"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gravel"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:sand"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:red_sand"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crimson_nylium"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:warped_nylium"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:soul_sand"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:soul_soil"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bone_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ice"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:packed_ice"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:blue_ice"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:snow_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:snow"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:calcite"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:tuff"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:dripstone_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:pointed_dripstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:magma_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:obsidian"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:crying_obsidian"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:coal_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_coal_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:iron_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_iron_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:copper_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_copper_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:gold_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_gold_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:redstone_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_redstone_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:emerald_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_emerald_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:lapis_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_lapis_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:diamond_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:deepslate_diamond_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_gold_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:nether_quartz_ore"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:ancient_debris"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:coal_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_iron_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_copper_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:raw_gold_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:glowstone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:amethyst_block"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:budding_amethyst"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:small_amethyst_bud"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:medium_amethyst_bud"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:large_amethyst_bud"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:amethyst_cluster"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:end_portal_frame"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:infested_stone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:infested_cobblestone"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:infested_stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:infested_mossy_stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:infested_cracked_stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:infested_chiseled_stone_bricks"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:infested_deepslate"
+    },
+    {
+      "Count": 1,
+      "id": "minecraft:bedrock"
+    },
+    {
+      "Count": 1,
       "id": "minecraft:torch"
     },
     {
@@ -2230,14 +3034,6 @@
     },
     {
       "Count": 1,
-      "id": "minecraft:slime_block"
-    },
-    {
-      "Count": 1,
-      "id": "minecraft:honey_block"
-    },
-    {
-      "Count": 1,
       "id": "minecraft:observer"
     },
     {
@@ -2271,10 +3067,6 @@
     {
       "Count": 1,
       "id": "minecraft:daylight_detector"
-    },
-    {
-      "Count": 1,
-      "id": "minecraft:sculk_sensor"
     },
     {
       "Count": 1,
